@@ -61,13 +61,13 @@ support_haproxy = false
 ip_tos = "10111010" # binary string for ToS (left 6 bits are DSCP flag, 7th bit is to enable TCP ECN, last bit MUST be 0)
 
 [website]
-website_url = "https://osroyale.com"
-forum_db_url = "jdbc:mysql://173.82.152.23:3306/osroyjs_main"
-forum_db_user = "osroyjs_game"
-forum_db_pass = "dJ$&38mGEsTB"
+website_url = ""
+forum_db_url = ""
+forum_db_user = ""
+forum_db_pass = ""
 
 [discord]
-token = "MTA0ODgxMjIxOTIxMjc2NzI0Mw.GI_zO7.IG56uU2cqwDnh-6pnYGM33sdZHcE1lsoQTmNQk"
+token = ""
 
 [postgre]
 postgre_url = ""
