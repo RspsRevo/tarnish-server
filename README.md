@@ -1,0 +1,14 @@
+# Tarnish Server
+
+**Client:** https://github.com/RspsRevo/tarnish-client
+
+**Cache:** https://mega.nz/file/W0p31KAb#gY1LYDLslYfpbOGTaU35G_5PUtNyzqnXJvT7kuR_7IA
+
+**Map Editor:** https://github.com/RspsRevo/RSPSi-tarnish
+
+#### Credits
+1. [Settings](https://www.rune-server.ee/members/Settings/)
+2. [Jack](https://rune-server.org/members/Jack/)
+3. [Zion](https://www.rune-server.ee/members/Zion/)
+4. [Nighel](https://www.rune-server.ee/members/Nighel/)
+5. [Jire](https://rune-server.org/members/Jire/)
